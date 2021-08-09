@@ -11,6 +11,10 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída
 
+#### Testes Unitários Executados
+
+![tests](teste-concluido.png)
+
 - **should be able to add a task**
 
 Para que esse teste passe, você deve permitir que task seja criada e com isso, exibida em tela.
